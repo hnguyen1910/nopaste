@@ -1,3 +1,7 @@
+
+Copyright (c) 2020 Boris K
+
+
 [![Intro](https://github.com/bokub/nopaste/raw/images/intro.png)][intro-img]
 
 # What is NoPaste?
